@@ -1,0 +1,36 @@
+{
+  "name": "gulp-helper",
+  "version": "0.0.1",
+  "description": "some helpers for gulp",
+  "keywords": [
+    "gulp",
+    "helper"
+  ],
+  "author": "Caoxingming",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/taijiweb/gulp-helper/master/LICENSE"
+    }
+  ],
+  "main": "index.js",
+  "homepage": "https://github.com/taijiweb/gulp-helper",
+  "bugs": "https://github.com/taijiweb/gulp-helper/issues",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/taijiweb/gulp-helper.git"
+  },
+  "dependencies": {
+    "gulp": "~3.9.0",
+    "gulp-til": "~3.0.1",
+    "gulp-cached": "~1.0.1",
+    "gulp-changed": "~1.0.0",
+    "gulp-plumber": "~0.6.5",
+    "combine-stream": "0.0.4"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
