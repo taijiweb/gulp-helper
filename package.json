@@ -1,5 +1,5 @@
 {
-  "name": "gulp-helper",
+  "name": "gulp-task-helper",
   "version": "0.0.1",
   "description": "some helpers for gulp",
   "keywords": [
@@ -10,15 +10,15 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://raw.github.com/taijiweb/gulp-helper/master/LICENSE"
+      "url": "https://raw.github.com/taijiweb/gulp-task-helper/master/LICENSE"
     }
   ],
   "main": "index.js",
-  "homepage": "https://github.com/taijiweb/gulp-helper",
-  "bugs": "https://github.com/taijiweb/gulp-helper/issues",
+  "homepage": "https://github.com/taijiweb/gulp-task-helper",
+  "bugs": "https://github.com/taijiweb/gulp-task-helper/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/taijiweb/gulp-helper.git"
+    "url": "git://github.com/taijiweb/gulp-task-helper.git"
   },
   "dependencies": {
     "gulp": "~3.9.0",

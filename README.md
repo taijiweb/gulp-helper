@@ -1,13 +1,13 @@
-# bdd-test-helper
+# gulp-task-helper
   some helpers for gulp
 
   ES6
 
-    var {task, xtask, src, from, dest, CombineStream, logTime} = require('bdd-test-helper')
+    var {task, xtask, src, from, dest, CombineStream, logTime} = require('gulp-task-helper')
 
   Coffee-script:
 
-    {expect, iit, idescribe, nit, ndescribe} = require('bdd-test-helper')
+    {expect, iit, idescribe, nit, ndescribe} = require('gulp-task-helper')
 
 ## LICENSE
-  MIT, see [LICENSE](https://github.com/taijiweb/bdd-test-helper/blob/master/LICENSE)
+  MIT, see [LICENSE](https://github.com/taijiweb/gulp-task-helper/blob/master/LICENSE)
