@@ -1,6 +1,6 @@
 {
   "name": "gulp-task-helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "some helpers for gulp",
   "keywords": [
     "gulp",
@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "gulp": "~3.9.0",
-    "gulp-til": "~3.0.1",
+    "gulp-util": "~3.0.1",
     "gulp-cached": "~1.0.1",
     "gulp-changed": "~1.0.0",
     "gulp-plumber": "~0.6.5",
