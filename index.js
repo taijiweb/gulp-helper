@@ -3,6 +3,10 @@
 var gulp = require('gulp');
 var gutil = require('gulp-util');
 
+exports.gulp = gulp;
+exports.gutil = gutil;
+exports.watch = gulp.watch;
+
 var changed = require('gulp-changed');
 var cache = require('gulp-cached');
 var plumber = require('gulp-plumber');
