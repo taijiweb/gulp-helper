@@ -1,12 +1,13 @@
 {
   "name": "gulp-task-helper",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "some helpers for gulp",
   "keywords": [
     "gulp",
     "helper"
   ],
   "author": "Caoxingming",
+  "license": "MIT",
   "licenses": [
     {
       "type": "MIT",

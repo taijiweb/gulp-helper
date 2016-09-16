@@ -1,4 +1,4 @@
-//this should be a js file, because it should depend on coffee or gulp self.
+//this should be a js file, because it should NOT depend on coffee or gulp self.
 
 var gulp = require('gulp');
 var gutil = require('gulp-util');
